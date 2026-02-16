@@ -150,5 +150,5 @@ plugins/
 * JavaScript Expansion: [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
 * TAB: [TAB Plugin](https://www.spigotmc.org/resources/tab-1-10-1-19.708/)
 * AdityaBoii ( OUR CEO ) : <@1236696193556414645>
-
+* ZEROX 
 ---
